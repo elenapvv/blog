@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Personal Project"
-summary: "Personal Project for Scientific Programming"
+title: "Мой персональный проект"
+summary: "Персональный проект для научного программирования"
 authors: []
 tags: []
 categories: []

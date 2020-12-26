@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Trees As Indicators Of The Urban Environment State"
+title: "Деревья как показатели состояния городской среды"
 authors: []
 date: 2020-11-29T21:31:16+03:00
 doi: ""
@@ -20,12 +20,7 @@ publication: "Проблемы современного мира глазами 
 ред. Н.М. Мекеко, С.Н. Курбаковой. М.: ИТЦ, 2019. 419 с."
 publication_short: ""
 
-abstract: "The article is devoted to the study of the urban environment state and the
-development of the site for monitoring this state. The article sets out the rationale
-for the relevance of a Smart Urban Nature project, a description of the device used
-to collect the necessary data, and a description of the site development. The
-Moscow city and the surrounding territories have been chosen as a territory for the
-study."
+abstract: "Статья посвящена изучению состояния городской среды и разработке сайта для мониторинга этого состояния. В статье обосновывается актуальность проекта Smart Urban Nature, дается описание устройства, используемого для сбора необходимых данных, и описание разработки сайта. В качестве территории для исследования были выбраны город Москва и прилегающие территории."
 
 # Summary. An optional shortened abstract.
 summary: ""

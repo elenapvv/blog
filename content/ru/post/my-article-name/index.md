@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My First Post"
+title: "Мой первый пост"
 subtitle: ""
-summary: "Hello, world!"
+summary: "Привет, мир!"
 authors: []
 tags: []
 categories: []

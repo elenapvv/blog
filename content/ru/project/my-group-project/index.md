@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Group Project"
-summary: "Group Project for Scientific Programming"
+title: "Мой групповой проект"
+summary: "Групповой проект для научного программирования"
 authors: []
 tags: []
 categories: []

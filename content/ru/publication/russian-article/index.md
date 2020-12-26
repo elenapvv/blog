@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Statistical analysis of data obtained from Smart Urban Nature
-project"
+title: "Статистический анализ данных, полученных в рамках
+проекта Smart Urban Nature"
 authors: []
 date: 2020-11-29T21:45:32+03:00
 doi: ""
@@ -27,10 +27,11 @@ publication: "ИНФОРМАЦИОННОТЕЛЕКОММУНИКАЦИОННЫЕ
 Москва, РУДН, 13–17 апреля 2020 г."
 publication_short: ""
 
-abstract: "The work is devoted to the analysis of data obtained from sensors located on trees using
-the statistical method of analysis of time series Singular Spectrum Analysis (SSA). Data from
-TreeTalker sensors located on trees in Moscow is analyzed and compared. Some results of
-analysis carried out using software developed in Python are presented."
+abstract: "Работа посвящена анализу данных, полученных с датчиков, расположенных на дере-
+вьях, с применением статистического метода анализа временных рядов Singular Spectrum
+Analysis (SSA). Анализируются и сравниваются данные с датчиков TreeTalker, располо-
+женных на деревьях в Москве. Приводятся некоторые результаты анализа, проведённого
+с использованием программного обеспечения, разработанного на языке Python."
 
 # Summary. An optional shortened abstract.
 summary: ""
